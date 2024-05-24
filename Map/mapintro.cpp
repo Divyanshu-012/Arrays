@@ -28,6 +28,10 @@ int main() {
         cout<<m["bjb"]<<endl;
         cout<<m.at("bjb")<<endl;
 
+        //size
+        cout<< m.size()<<endl;
+
+
 
     return 0;
 
