@@ -31,6 +31,9 @@ int main() {
         //size
         cout<< m.size()<<endl;
 
+        //to check presence
+        cout<< m.count("bro")<<endl;
+
 
 
     return 0;
