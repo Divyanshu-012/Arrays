@@ -34,6 +34,10 @@ int main() {
         //to check presence
         cout<< m.count("bro")<<endl;
 
+        //erase
+        m.erase("love");
+        cout<<m.size()<<endl;
+
 
 
     return 0;
