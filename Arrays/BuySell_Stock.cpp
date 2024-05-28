@@ -7,10 +7,6 @@ using namespace std;
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-
-        //*******  kadane Algoritm ******
-
-
         long long maxi = LONG_MIN; // maximum sum
         long long sum = 0;
         int n = nums.size();
