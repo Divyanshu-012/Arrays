@@ -1,11 +1,5 @@
 #include <iostream>
 #include <vector>
-
-using namespace std;
-
-
-#include <iostream>
-#include <vector>
 #include <algorithm> // For swap
 
 using namespace std;
