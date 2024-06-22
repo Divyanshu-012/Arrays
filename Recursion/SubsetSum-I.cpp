@@ -22,6 +22,7 @@ public:
     }
 };
 
+
 int main() {
     Solution solution;
     int n;
